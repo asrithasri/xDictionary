@@ -30,7 +30,7 @@ function App() {
         setDefinition(wordData.meaning)
       }
       else{
-        setDefinition("Word not found in the dictionary");
+        setDefinition("Word not found in the dictionary.");
       }
 
   };
